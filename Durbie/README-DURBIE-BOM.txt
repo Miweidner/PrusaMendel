@@ -1,7 +1,7 @@
 Durbie Prusa Mendel Bill of Materials (printed parts):
 
 RP parts that are common with the Prusa Mendel are marked *unchanged* below.
-They can be found in the Durbie under the "stl/" folder in the main directory.
+These common parts can be found under the romscraj/PrusaMendel fork in the "stl" folder (https://github.com/romscraj/PrusaMendel/tree/Durbie/stl).
 Take note that some quantities for the common (*unchanged*) parts differ from the original Prusa Mendel requirement.
 
 4x frame-vertex-with-foot *unchanged*
