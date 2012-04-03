@@ -3,34 +3,44 @@ Durbie Prusa Mendel
 Forked from https://github.com/prusajr/PrusaMendel
 
 Refer to the Durbie branch: https://github.com/romscraj/PrusaMendel/tree/Durbie
+Durbie specific files are in the Durbie folder.
 
-Modified parts can be found in the "Durbie/Unique-STL-Files" folder.
-
-Direct downloads for certain files can be found in the Durbie repo here:
+Direct downloads for certain files (eg. Assembly Instructions) can be found in the repo here:
 https://github.com/romscraj/durbie/downloads
 _____________________________________________________________________
 
-Imported stuff:
+Imported stuff (for Durbie V1.1 STLs)
+PLA bushings and x-carriage are prusajr's original design
+Belt pulley is http://www.thingiverse.com/thing:3104 by GilesBathgate
+
+Credits (for Durbie V1.1 STLs):
+Wade V2 (M4) Extruder inspired and modified from original designs by Wade and Adrian Bowyer
+Majority of Durbie V1.1 STL files are based on prusajr's original work and modified where necessary. 
+
+Imported stuff (for PrusaMendel's cloned repo files):
 Frame vertices are based on Viks and Tonokips ones
 Extruder by Wade
 Parametric Involute Bevel and Spur Gears by GregFrost
 Belt pulley is http://www.thingiverse.com/thing:3104 by GilesBathgate
 _____________________________________________________________________
 
+Recommended to build using consolidated STL files in Durbie V1.1 folder: https://github.com/romscraj/PrusaMendel/tree/Durbie/Durbie/Durbie-V1.1-STLs
+
+Wade V2 (M4) Extruder STL files can be found here:
+https://github.com/romscraj/PrusaMendel/tree/Durbie/Durbie/WadeV2-M4-STL-Files
+
+DEPRECATED (intended for reference only): Older files are in Durbie/Unique-STL-Files - note that this folder contains only the (old) Durbie unique STLs. If you are printing these older STLs, you will need to print the remainder of the parts (prusajr's Prusa Mendel parts that are common with the Durbie) that can be found here:
+https://github.com/romscraj/PrusaMendel/tree/Durbie/stl
+
 Durbie Prusa Mendel Bill of Materials (printed parts):
 
-RP parts that are common with the Prusa Mendel are marked *unchanged* below.
-They can be found in the Durbie branch, under "stl/" folder.
-Take note that some quantities for the common (*unchanged*) parts differ from the original Prusa Mendel requirement.
-
-4x frame-vertex-with-foot *unchanged*
-2x frame-vertex-without-foot *unchanged*
-1x y-motor-bracket *unchanged*
-6x bar-clamp *unchanged*
+4x frame-vertex-with-foot
+2x frame-vertex-without-foot
+1x y-motor-bracket
+6x bar-clamp
 1x bottom-right-bearing-holder
 1x bottom-left-bearing-holder
-3x endstop-holder  (2x additional required if mounting electronics as shown in Step 10.8 of Assembly Instructions) *unchanged*
-1x x-end-idler
+3x endstop-holder  (2x additional required if mounting electronics as shown in Step 10.8 of Assembly Instructions) 1x x-end-idler
 1x x-end-motor
 2x slide-coupling-base
 2x slide-coupling-block
@@ -38,10 +48,10 @@ Take note that some quantities for the common (*unchanged*) parts differ from th
 1x top-right-bearing-holder
 1x top-left-bearing-holder
 1x z-motor-bracket
-1x x-carriage *unchanged*
-2x rod-clamp *unchanged*
-4x belt-clamp *unchanged*
+1x x-carriage
+2x rod-clamp
+4x belt-clamp
 2x belt-riser
-12x PLA-bushings *unchanged*
-3x motor-pulley *unchanged*
+12x PLA-bushings
+3x motor-pulley
 2x z-pulley
